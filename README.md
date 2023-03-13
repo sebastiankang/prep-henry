@@ -1,2 +1,1 @@
-# prep-henry
-repositorio del modulo 2 del henry
+este es proyecto de como crear un repo y clonarlo desde github a mi compu
